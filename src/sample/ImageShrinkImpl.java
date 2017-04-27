@@ -19,6 +19,7 @@ import javax.imageio.plugins.jpeg.JPEGImageWriteParam;
 
 /**
  * 画像縮小処理パターン
+ * @author onizawa_no
  * 
  */
 public class ImageShrinkImpl {
